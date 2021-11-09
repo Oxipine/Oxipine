@@ -1,16 +1,27 @@
-### Hi there 👋
+### __ 👋 Hey, I'm Oxipine.__ 
+A normal Minecrafter.
 
-<!--
-**Oxipine/Oxipine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<a href="https://discord.com/users/672030283729469450">
+  <img src="https://lanyard-profile-readme.vercel.app/api/672030283729469450?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=A %20me%20fellow%20Minecrafter%20:D" align="right" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🖥️ Games:
+  - Minecraft
+  - Roblox
+  - And some weird mobile games :)
+
+- 🛠 What I can make/do:
+  - Resourcepacks (minecraft)
+  - Roblox hack scripts
+  - Get a minecraft client content.
+ 
+-> I mostly play minecraft for fun
+
+
+---  
+
+<p align="center"><b> 
+  Visit counter:</b><br><br>
+  <img src="https://profile-counter.glitch.me/Oxipine/count.svg" />
+</p>
