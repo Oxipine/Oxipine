@@ -4,7 +4,7 @@ A normal Minecrafter.
 ---
 
 <a href="https://discord.com/users/672030283729469450">
-  <img src="https://lanyard-profile-readme.vercel.app/api/672030283729469450?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=A %20me%20fellow%20Minecrafter%20:D" align="right" /></a>
+  <img src="https://lanyard-profile-readme.vercel.app/api/672030283729469450?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=A %20%20fellow%20Minecrafter%20:D" align="right" /></a>
 
 - 🖥️ Games:
   - Minecraft
