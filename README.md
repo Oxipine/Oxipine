@@ -25,3 +25,6 @@ A normal Minecrafter.
   Visit counter:</b><br><br>
   <img src="https://profile-counter.glitch.me/Oxipine/count.svg" />
 </p>
+
+<a href="https://discord.com/api/guilds/900224869621465129/widget.json">
+  <img src="https://discord.com/api/guilds/900224869621465129/widget.json" align="right" /></a>
