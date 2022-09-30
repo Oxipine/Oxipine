@@ -26,5 +26,4 @@ A normal Minecrafter.
   <img src="https://profile-counter.glitch.me/Oxipine/count.svg" />
 </p>
 
-<a href="https://discord.com/api/guilds/900224869621465129/widget.json">
-  <img src="https://discord.com/api/guilds/900224869621465129/widget.json" align="right" /></a>
+<iframe width="110" height="200" src="https://www.myinstants.com/instant/quandale-dingle-99957/embed/" frameborder="0" scrolling="no"></iframe>
